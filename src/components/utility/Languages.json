@@ -1,0 +1,20 @@
+{
+    "languages": [
+        {
+            "code": "en",
+            "name": "English",
+            "country": "gb"
+        },
+        {
+            "code": "hi",
+            "name": "हिन्दी",
+            "country": "in"
+        },
+        {
+            "code": "ur",
+            "name": "اردو",
+            "country": "sa",
+            "dir": "rtl"
+        }
+    ]
+}
